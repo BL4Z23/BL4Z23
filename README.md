@@ -35,7 +35,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats-hazel-pi-72.vercel.app/api/top-langs/?username=BL4Z23&hide_border=true&bg_color=0D1117&title_color=FFFFFF&text_color=C9D1D9&layout=donut&langs_count=10&cache_seconds=1&border_radius=20" />
+  <img src="https://raw.githubusercontent.com/BL4Z23/BL4Z23/main/dist/languages.svg" />
 </p>
 
 ---
