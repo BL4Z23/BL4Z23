@@ -24,7 +24,7 @@ GRAPHQL_URL = "https://api.github.com/graphql"
 QUERY = """
 query($login: String!, $after: String) {
   user(login: $login) {
-    repositories(first: 50, after: $after, ownerAffiliation: OWNER, isFork: false) {
+    repositories(first: 50, after: $after, ownerAffiliations: OWNER, isFork: false) {
       pageInfo { hasNextPage endCursor }
       nodes {
         languages(first: 10, orderBy: {field: SIZE, direction: DESC}) {
