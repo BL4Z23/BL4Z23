@@ -10,7 +10,7 @@
   <img src="https://komarev.com/ghpvc/?username=BL4Z23&label=Profile+views&color=36BCF7&style=for-the-badge" alt="Profile views" />
   <img src="https://img.shields.io/github/followers/BL4Z23?style=for-the-badge&logo=github&color=30363D" alt="Followers" />
   <img src="https://img.shields.io/github/stars/BL4Z23?style=for-the-badge&logo=github&color=FF7F11" alt="Stars" />
-  <img src="https://img.shields.io/github/last-commit/BL4Z23/BL4Z23?style=for-the-badge&logo=git&color=36BCF7" alt="Last commit" />
+  <img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fgithub-contributions-api.jogruber.de%2Fv4%2FBL4Z23%3Fy%3Dlast&query=%24.total.lastYear&label=Contributions%20(last%20year)&style=for-the-badge&logo=github&color=36BCF7" alt="Contributions in the last year" />
 </p>
 
 ---
