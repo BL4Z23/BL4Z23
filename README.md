@@ -38,7 +38,7 @@
 
 <p align="center">
   <img height="180em" src="https://github-readme-stats-hazel-pi-72.vercel.app/api?username=BL4Z23&show_icons=true&hide_border=true&hide_rank=true&count_private=true&bg_color=0D1117&title_color=FFFFFF&text_color=C9D1D9&icon_color=FF7F11&custom_title=BL4Z23%27s%20GitHub%20Stats" />
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=BL4Z23&hide_border=true&background=0D1117&border=0D1117&stroke=30363D&ring=FF4500&fire=FF7F11&currStreakNum=FFFFFF&sideNums=C9D1D9&currStreakLabel=FF7F11&sideLabels=C9D1D9&dates=8B949E" />
+  <img height="180em" src="https://streak-stats.demolab.com/?user=BL4Z23&hide_border=true&background=0D1117&border=0D1117&stroke=30363D&ring=FF4500&fire=FF7F11&currStreakNum=FFFFFF&sideNums=C9D1D9&currStreakLabel=FF7F11&sideLabels=C9D1D9&dates=8B949E&cache_seconds=14400&v=2" />
 </p>
 
 <p align="center">
